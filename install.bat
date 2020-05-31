@@ -1,5 +1,6 @@
 @echo off
 SETLOCAL ENABLEDELAYEDEXPANSION
+cd %~dp0
 
 :: Creates a VBS file called usermessage
 > usermessage.vbs ECHO WScript.Echo InputBox( "Desired Username", "Username", "" )
