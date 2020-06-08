@@ -1,6 +1,9 @@
 # Viva Pinata Xbox Live/Games for Windows Live Fix
 This repository hosts an installer and files to fix Viva Pinata's requirement of Games for Windows Live
 
+###
+[Video Walkthrough Here](https://youtu.be/6Pznxgy8PqQ)
+
 ### Steps Using the Install.bat
 1. Download the files from GitHub
 2. Extract the files to their own folder.
